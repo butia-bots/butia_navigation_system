@@ -9,6 +9,7 @@
   <author email="vinicius.marques@furg.br">Vinicius Marques</author>
   <author>Vinicius Marques</author>
 
+  <buildtool_depend>catkin</buildtool_depend>
   <depend>roslaunch</depend>
   <build_depend>rospy</build_depend>
   <build_export_depend>rospy</build_export_depend>
